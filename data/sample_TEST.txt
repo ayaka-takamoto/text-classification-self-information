@@ -1,0 +1,10 @@
+0,the spacecraft traveled through space toward a distant planet
+0,the telescope observed stars and galaxies beyond the earth
+0,the astronaut worked on a scientific mission near the moon
+0,the satellite remained in orbit above the planet
+0,the rocket carried scientific equipment into space
+1,the chef prepared a warm soup with fresh vegetables
+1,the baker used flour butter and eggs to make bread
+1,the cook sliced tomato and onion in the kitchen
+1,the cake was baked in a hot oven with sugar and butter
+1,the recipe included garlic vegetables salt and olive oil

@@ -1,0 +1,20 @@
+0,the astronaut traveled through space and observed distant stars
+0,the spacecraft entered orbit around the planet
+0,the telescope captured light from a distant galaxy
+0,the rocket launched into space and carried a small satellite
+0,the mission explored the moon and collected scientific data
+0,the satellite moved around the earth in a stable orbit
+0,the astronomer studied stars planets and distant galaxies
+0,the space station traveled above the earth during the mission
+0,the rocket engine carried the spacecraft toward the moon
+0,the telescope observed a bright star in the night sky
+1,the chef cooked fresh vegetables in a hot pan
+1,the recipe uses flour butter sugar and fresh eggs
+1,the soup was prepared with vegetables salt and warm water
+1,the baker mixed flour and sugar before baking the cake
+1,the chef sliced the vegetables and cooked them in the kitchen
+1,the bread was baked in the oven until it became golden
+1,the recipe combines tomato onion garlic and olive oil
+1,the cook added salt and pepper to the hot soup
+1,the cake was prepared with butter eggs flour and sugar
+1,the kitchen smelled wonderful while the bread was baking
