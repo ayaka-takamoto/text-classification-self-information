@@ -1,0 +1,10 @@
+orig: the spacecraft traveled through space toward a distant planet	seg: the s|pa|c|ec|r|a|f|t| t|r|a|ve|l|ed th|r|o|ug|h| s|pa|c|e| to|war|d |a| |d|i|s|t|an|t p|l|an|e|t	score: 201.359
+orig: the telescope observed stars and galaxies beyond the earth	seg: the |t|e|les|co|pe |o|b|s|er|ve|d s|t|ar|s and |ga|l|a|x|i|e|s b|e|y|ond| the |e|arth	score: 171.009
+orig: the astronaut worked on a scientific mission near the moon	seg: the |as|t|r|on|a|ut| wo|r|ked |o|n a |s|ci|e|nti|f|ic| mi|s|s|ion |n|e|ar| the |m|o|on	score: 177.88
+orig: the satellite remained in orbit above the planet	seg: the s|a|t|ell|it|e re|ma|in|ed in |o|r|b|it |ab|ove| the |p|l|an|e|t	score: 134.208
+orig: the rocket carried scientific equipment into space	seg: the r|o|c|ket| c|ar|r|i|ed s|ci|e|nti|f|ic |e|q|u|ip|m|ent| in|to |s|pa|c|e	score: 170.104
+orig: the chef prepared a warm soup with fresh vegetables	seg: the chef| prepared |a| warm| soup| with| fresh vegetables	score: 54.1204
+orig: the baker used flour butter and eggs to make bread	seg: the baker| use|d| flour butter| and| eggs| to |m|ak|e bread	score: 75.8121
+orig: the cook sliced tomato and onion in the kitchen	seg: the cook| sliced| tomato| and| onion| in the kitchen	score: 51.4754
+orig: the cake was baked in a hot oven with sugar and butter	seg: the cake| was baked| in a hot| oven| with| sugar and| butter	score: 60.3299
+orig: the recipe included garlic vegetables salt and olive oil	seg: the recipe |in|c|l|u|ded| garlic| vegetables salt| and olive oil	score: 66.0619

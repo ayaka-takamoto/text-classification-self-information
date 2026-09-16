@@ -1,0 +1,10 @@
+orig: the spacecraft traveled through space toward a distant planet	seg: the spacecraf|t traveled through space| toward| a distant| planet	score: 43.6335
+orig: the telescope observed stars and galaxies beyond the earth	seg: the telescope observed| stars| and| galaxies| |b|e|y|o|nd the earth	score: 67.2643
+orig: the astronaut worked on a scientific mission near the moon	seg: the astronaut |w|or|ke|d |on a| scientific| mission |n|ear| the moon	score: 86.6795
+orig: the satellite remained in orbit above the planet	seg: the satellite |r|e|ma|in|ed in| orbit| above the| planet	score: 66.7523
+orig: the rocket carried scientific equipment into space	seg: the rocket| carri|ed scientific |e|q|u|i|p|m|ent| into space	score: 80.1133
+orig: the chef prepared a warm soup with fresh vegetables	seg: the |che|f| p|r|e|pa|r|ed a |war|m| s|ou|p| |w|i|th| fr|e|s|h| |ve|g|e|table|s	score: 162.648
+orig: the baker used flour butter and eggs to make bread	seg: the |b|a|ke|r| |u|s|ed |f|l|ou|r| |b|ut|ter| and |e|g|g|s| to| m|a|ke| br|e|a|d	score: 170.678
+orig: the cook sliced tomato and onion in the kitchen	seg: the |co|o|k| s|li|c|ed t|om|a|t|o| and |on|ion| in the |k|it|che|n	score: 126.785
+orig: the cake was baked in a hot oven with sugar and butter	seg: the| ca|ke| |wa|s| |b|a|ke|d| in a |h|o|t |ove|n |w|i|th| s|ug|ar| and |b|ut|ter	score: 170.164
+orig: the recipe included garlic vegetables salt and olive oil	seg: the r|ec|i|pe |in|c|l|ud|ed |g|ar|l|ic |ve|g|e|table|s| s|al|t| and o|li|ve |o|i|l	score: 169.118

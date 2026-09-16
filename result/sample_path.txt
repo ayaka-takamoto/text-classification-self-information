@@ -1,0 +1,12 @@
+correct_class: 0	result_class: 0	1	score: 43.6335
+correct_class: 0	result_class: 0	1	score: 67.2643
+correct_class: 0	result_class: 0	1	score: 86.6795
+correct_class: 0	result_class: 0	1	score: 66.7523
+correct_class: 0	result_class: 0	1	score: 80.1133
+correct_class: 1	result_class: 1	1	score: 54.1204
+correct_class: 1	result_class: 1	1	score: 75.8121
+correct_class: 1	result_class: 1	1	score: 51.4754
+correct_class: 1	result_class: 1	1	score: 60.3299
+correct_class: 1	result_class: 1	1	score: 66.0619
+10/10
+1.000000
