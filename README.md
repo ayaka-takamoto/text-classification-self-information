@@ -2,7 +2,7 @@
 
 This repository contains the source code for an information-quantity-based text classifier.
 
-# Repository Structure
+## Repository Structure
 
 ```text
 repository/
@@ -19,12 +19,12 @@ repository/
     └── SuffixArrayMatcher.h
 ```
 
-# Requirements
+## Requirements
 
 * C++17 or later
 * GCC / g++
 
-# Compilation
+## Compilation
 
 Move to the src directory and compile the source files.
 
@@ -33,7 +33,7 @@ cd src
 g++ -std=c++17 InfoQuantityClassifierPath.cpp SuffixArrayMatcher.cpp -o classifier
 ```
 
-# Execution
+## Execution
 
 Run the program from the src directory.
 ```
@@ -41,7 +41,7 @@ Run the program from the src directory.
 ```
 The output files are written to the result directory.
 
-# Input Data Format
+## Input Data Format
 
 Each line of the input data consists of a class label and text separated by a comma.
 
@@ -64,7 +64,7 @@ The dataset names to be processed are specified in:
 ```
 src/file_name_list.txt
 ```
-Sample Data
+## Sample Data
 
 The data directory contains artificial sample data for checking that the program runs correctly.
 
